@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Luiz Eduardo Gagno Amancio",
-	"description": "A project to learn node",
+	"description": "A project to learn nodeJS",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
